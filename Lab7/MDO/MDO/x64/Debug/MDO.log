@@ -1,0 +1,5 @@
+﻿  MDO.cpp
+C:\Users\Andra Ursa\Desktop\sda\Lab7\MDO\MDO\MDO.h(24,2): warning C4091: 'typedef ': ignored on left of 'NodAbc' when no variable is declared
+C:\Users\Andra Ursa\Desktop\sda\Lab7\MDO\MDO\MDO.h(29,2): warning C4091: 'typedef ': ignored on left of 'ABC' when no variable is declared
+C:\Users\Andra Ursa\Desktop\sda\Lab7\MDO\MDO\MDO.cpp(176,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  MDO.vcxproj -> C:\Users\Andra Ursa\Desktop\sda\Lab7\MDO\x64\Debug\MDO.exe
